@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^1.3.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "readline": "^1.3.0",
+    "request": "^2.88.2"
+  },
+  "name": "manager",
+  "version": "1.0.0",
+  "main": "manage.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
